@@ -29,6 +29,4 @@ This is a simple Node.js application that serves as an API to fetch the latest 6
 
 Endpoint: http://localhost:3000/getTimeStories
 
-Method: GET
-
 
