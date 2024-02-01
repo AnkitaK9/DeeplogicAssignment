@@ -20,10 +20,7 @@ This is a simple Node.js application that serves as an API to fetch the latest 6
    ```bash
    cd DeeplogicAssignment
    
-3. Install the Prerequisites/requirements
-   ```bash
-   npm install
-5. Run the command given below:
+3. Run the command given below:
    ```bash
    node DeepLogic_Assignment.js
 
