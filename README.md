@@ -7,7 +7,6 @@ This is a simple Node.js application that serves as an API to fetch the latest 6
 ### Prerequisites
 
 - Node.js
-- npm
 
 ### Installation
 
